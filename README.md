@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="220"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://t.me/user_Victor">
+  <a href="https://t.me/userVictor888">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
